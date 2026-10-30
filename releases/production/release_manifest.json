@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "app_id": "com.lykspire.bizsuite",
+  "channel": "production",
+  "version": "1.0.1",
+  "release_date": "2026-10-30T15:30:00.000Z",
+  "download_url": "https://github.com/sanjay-devspace/billing-/releases/download/v1.0.1/LyKSpire_Biz_Suite_Setup_1.0.1.exe",
+  "byte_size": 17354078,
+  "sha256": "b273872b7f0b0ea91390c29722de0299a78646ba5a5ee9dbe22951f0debe6824",
+  "release_notes": "LyKSpire Biz Suite v1.0.1 Production Release with Neon serverless sync stability and auto-update verification.",
+  "is_mandatory": false
+}
