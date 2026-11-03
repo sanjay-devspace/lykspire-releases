@@ -3,10 +3,10 @@
   "app_id": "com.lykspire.bizsuite",
   "channel": "production",
   "version": "1.0.1",
-  "release_date": "2026-11-03T16:00:27.804711Z",
+  "release_date": "2026-11-03T16:43:44.445721Z",
   "download_url": "https://github.com/sanjay-devspace/lykspire-releases/releases/download/v1.0.1/LyKSpire_Biz_Suite_Setup_1.0.1.exe",
-  "byte_size": 17414321,
-  "sha256": "7843684d9c129a08bcafa01d196a26aeb7a40c44dd80cbeb2e59e29d6f6f86fd",
+  "byte_size": 17422038,
+  "sha256": "153d360ba64d90f2476ee680b3ccedc7b05ee1cc932857f77ce853b1577fbff3",
   "release_notes": "Official Production Release v1.0.1 of LyKSpire Biz Suite.",
   "is_mandatory": false
 }
