@@ -2,11 +2,11 @@
   "schema_version": 1,
   "app_id": "com.lykspire.bizsuite",
   "channel": "test",
-  "version": "1.0.1-preview.25",
-  "release_date": "2026-11-03T15:57:48.680265Z",
-  "download_url": "https://github.com/sanjay-devspace/lykspire-releases/releases/download/v1.0.1-preview.25/LyKSpire_Biz_Suite_Setup_1.0.1-preview.25.exe",
-  "byte_size": 17414555,
-  "sha256": "67163d617404c2da86b6a7ca7e4bfc2d62134986004a6f91c45719b649685e4d",
-  "release_notes": "Internal Preview Release v1.0.1-preview.25 for QA validation.",
+  "version": "1.0.1-preview.26",
+  "release_date": "2026-11-03T16:43:18.571286Z",
+  "download_url": "https://github.com/sanjay-devspace/lykspire-releases/releases/download/v1.0.1-preview.26/LyKSpire_Biz_Suite_Setup_1.0.1-preview.26.exe",
+  "byte_size": 17423347,
+  "sha256": "964ca81d95d55dff4de6886cc7b87858f985524f68f2dfde97a4a51ae9329e46",
+  "release_notes": "Internal Preview Release v1.0.1-preview.26 for QA validation.",
   "is_mandatory": false
 }
